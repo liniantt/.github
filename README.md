@@ -1,1 +1,1 @@
-# .github
+# Liniantt profile styling repository.
