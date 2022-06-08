@@ -10,6 +10,13 @@
 🙋‍♀️Living In New Innovation And Networked Technological Trends
 
 
+<br><br> **MEMBER/SUB ORGANIZATIONS**
+| Sub-Organization | Description |
+|-|-|
+| [LinuxEuphony](https://www.github.com/linuxeuphony) | LinuxEuphony is all about linux. |
+| [PhotoVendor](https://www.github.com/photovendor) | PhotoVendor is a media production company, curremtly in progressive development |
+|||
+
 <br><br>💬 **OPEN SOURCE PROJECTS**<br>
 | # | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE | STARS
 -- | -- | -- | -- | -- | -- |
