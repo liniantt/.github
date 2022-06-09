@@ -7,7 +7,7 @@
 
 <br>
 
-🙋‍♀️Living In New Innovation And Networked Technological Trends
+🙋‍♀️**Living In New Innovation And Networked Technological Trends**
 
 
 <br><br> **MEMBER/SUB ORGANIZATIONS**
