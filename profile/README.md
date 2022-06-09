@@ -14,7 +14,7 @@
 | Sub-Organization | Description |
 |-|-|
 | [LinuxEuphony](https://www.github.com/linuxeuphony) | LinuxEuphony is all about linux. |
-| [PhotoVendor](https://www.github.com/photovendor) | PhotoVendor is a media production company, curremtly in progressive development |
+| [PhotoVendor](https://www.github.com/photovendor) | PhotoVendor is a media production company, curremtly in progressive development. |
 |||
 
 <br><br>💬 **OPEN SOURCE PROJECTS**<br>
