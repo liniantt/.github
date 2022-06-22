@@ -13,8 +13,9 @@
 <br><br> **MEMBER/SUB ORGANIZATIONS**
 | Sub-Organization | Description |
 |-|-|
-| [LinuxEuphony](https://www.github.com/linuxeuphony) | LinuxEuphony is all about linux. |
-| [PhotoVendor](https://www.github.com/photovendor) | PhotoVendor is a media production company, curremtly in progressive development. |
+| [LinuxEuphony](https://www.github.com/linuxeuphony) | **LinuxEuphony** is all about linux. |
+| [PhotoVendor](https://www.github.com/photovendor) | **PhotoVendor** is a media production company. The products are curremtly in progressive development. |
+| [ArtPellets](https://www.github.com/artpellets) | **ArtPellets** is an art and design company. The products are curremtly in progressive development. |
 |||
 
 <br><br>💬 **OPEN SOURCE PROJECTS**<br>
