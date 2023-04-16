@@ -13,16 +13,16 @@
 <br><br> **MEMBER/SUB ORGANIZATIONS**
 | Sub-Organization | Description |
 |-|-|
-| [LinuxEuphony](https://www.github.com/linuxeuphony) | **LinuxEuphony** is all about linux. |
-| [PhotoVendor](https://www.github.com/photovendor) | **PhotoVendor** is a media production company. The products are curremtly in progressive development. |
-| [ArtPellets](https://www.github.com/artpellets) | **ArtPellets** is an art and design company. The products are curremtly in progressive development. |
+| [linuxeuphony](https://www.github.com/linuxeuphony) | **LinuxEuphony** is all about linux. |
+| [photovendor](https://www.github.com/photovendor) | **PhotoVendor** is a media production company. The products are curremtly in progressive development. |
+| [artpellets](https://www.github.com/artpellets) | **ArtPellets** is an art and design company. The products are curremtly in progressive development. |
 |||
 
 <br><br>💬 **OPEN SOURCE PROJECTS**<br>
 | # | ACTIVE REPOSITORIES | DESCRIPTION | LANGUAGE | STARS |
 | -- | -- | -- | -- | -- |
-| 1 | [DuesClerk-Mobile](https://github.com/liniantt/duesclerk-mobile) | Application to manage dues for personal and business use. | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/duesclerk-mobile) |
-| 2 | [DuesClerk-Backend-API-Service](https://github.com/liniantt/duesclerk_backend_api_service) | DuesClerk Backend API Service | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/duesclerk_backend_api_service) |
+| 1 | [duesclerk-mobile](https://github.com/liniantt/duesclerk-mobile) | Application to manage dues for personal and business use. | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/duesclerk-mobile) |
+| 2 | [duesclerk-backend-api-service](https://github.com/liniantt/duesclerk_backend_api_service) | DuesClerk Backend API Service | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/duesclerk_backend_api_service) |
 |||||
 
 <br>
@@ -30,8 +30,8 @@
 
 | # | LEGACY REPOSITORIES | DESCRIPTION | LANGUAGE | STARS |
 | --| --| --| --| --|
-| 1 | [DuesClerk-Android-Legacy](https://github.com/liniantt/duesclerk-android-legacy) | Application to manage dues for personal and business use. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/duesclerk-android-legacy) |
-| 2 | [DuesClerk-Backend-Legacy](https://github.com/liniantt/duesclerk-backend-legacy) | Duesclerk backend | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/duesclerk-backend-legacy) | 
+| 1 | [duesclerk-android-legacy](https://github.com/liniantt/duesclerk-android-legacy) | Application to manage dues for personal and business use. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/duesclerk-android-legacy) |
+| 2 | [duesclerk-backend-legacy](https://github.com/liniantt/duesclerk-backend-legacy) | Duesclerk backend | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/duesclerk-backend-legacy) | 
 |  | |  |  |  |
 
 <br>
