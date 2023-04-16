@@ -10,7 +10,7 @@
 🙋‍♀️**Living In New Innovation And Networked Technological Trends**
 
 
-<br><br> **MEMBER/SUB ORGANIZATIONS**
+<br><br> **MEMBER/SUB ORGANIZATIONS/PRODUCTS**<br>
 | Sub-Organization | Description |
 |-|-|
 | [linuxeuphony](https://www.github.com/linuxeuphony) | **LinuxEuphony** is all about linux. |
@@ -18,7 +18,7 @@
 | [artpellets](https://www.github.com/artpellets) | **ArtPellets** is an art and design company. The products are curremtly in progressive development. |
 |||
 
-<br><br>💬 **OPEN SOURCE PROJECTS**<br>
+<br><br><br>💬 **OPEN SOURCE PROJECTS**<br><br>
 | # | ACTIVE REPOSITORIES | DESCRIPTION | LANGUAGE | STARS |
 | -- | -- | -- | -- | -- |
 | 1 | [duesclerk-mobile](https://github.com/liniantt/duesclerk-mobile) | Application to manage dues for personal and business use. | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/duesclerk-mobile) |
@@ -26,7 +26,6 @@
 |||||
 
 <br>
-
 
 | # | LEGACY REPOSITORIES | DESCRIPTION | LANGUAGE | STARS |
 | --| --| --| --| --|
