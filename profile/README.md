@@ -19,8 +19,8 @@
 |||
 
 <br><br>💬 **OPEN SOURCE PROJECTS**<br>
-| # | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE | STARS
--- | -- | -- | -- | -- |
+| # | REPOSITORY | DESCRIPTION | LANGUAGE | STARS
+| -- | -- | -- | -- | -- |
 | 1 | [DuesClerk-Multiplatform](https://github.com/liniantt/DuesClerk) | Application to manage dues for personal and business use. | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/DuesClerk) |
 | 2 | [DuesClerkAndroid-Legacy](https://github.com/liniantt/DuesClerkAndroid-Legacy) | Application to manage dues for personal and business use. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/DuesClerkAndroid-Legacy) |
 | 3 | [DuesClerkBackend-Legacy](https://github.com/liniantt/DuesClerk-Backend) | Duesclerk backend | ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/DuesClerk-Backend) |
