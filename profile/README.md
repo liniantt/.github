@@ -22,7 +22,7 @@
 | # | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE | STARS
 -- | -- | -- | -- | -- | -- |
 | 1 | [DuesClerk-Legacy](https://github.com/liniantt/DuesClerk) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | Application to manage dues for personal and business use. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/DuesClerk)
-| 2 | [DuesClerk-Backend](https://github.com/liniantt/DuesClerk-Backend) | - | Duesclerk backend | ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/DuesClerk-Backend)
+| 2 | [DuesClerkBackend-Legacy](https://github.com/liniantt/DuesClerk-Backend) | - | Duesclerk backend | ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/DuesClerk-Backend)
 |  | |  |  |  | |
 
 <br>
