@@ -19,9 +19,10 @@
 |||
 
 <br><br>💬 **OPEN SOURCE PROJECTS**<br>
-| # | REPOSITORY | DESCRIPTION | LANGUAGE | STARS
+| # | REPOSITORY | DESCRIPTION | LANGUAGE | STARS |
 | -- | -- | -- | -- | -- |
 | 1 | [DuesClerk-Mobile](https://github.com/liniantt/duesclerk-mobile) | Application to manage dues for personal and business use. | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/duesclerk-mobile) |
+| 2 | [DuesClerk-Backend-API-Service](https://github.com/liniantt/duesclerk_backend_api_service) | DuesClerk Backend API Service | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/duesclerk_backend_api_service) |
 | 2 | [DuesClerk-Android-Legacy](https://github.com/liniantt/duesclerk-android-legacy) | Application to manage dues for personal and business use. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/duesclerk-android-legacy) |
 | 3 | [DuesClerk-Backend-Legacy](https://github.com/liniantt/duesclerk-backend-legacy) | Duesclerk backend | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/duesclerk-backend-legacy) | 
 |  | |  |  |  |
